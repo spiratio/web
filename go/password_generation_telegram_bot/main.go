@@ -18,10 +18,10 @@ const (
 	Consonants string = "bcdfghjklmnpqrstvwxz"
 	SpecialSymbols string = "1234567890!$@%&()_-+*"
 	PasswordLength = 10
-	PasswordGenerationCommand string = "пароль"
+	PasswordGenerationCommand string = "РїР°СЂРѕР»СЊ"
 	StartCommand string = "/start"
-	AboutBot string = "Бот генератор паролей приветствует Вас! Чтобы сгенерировать пароль, напишите 'Пароль'"
-	UndefinedCommandError = "Команда не распознана. Введите новую команду."
+	AboutBot string = "Р‘РѕС‚ РіРµРЅРµСЂР°С‚РѕСЂ РїР°СЂРѕР»РµР№ РїСЂРёРІРµС‚СЃС‚РІСѓРµС‚ Р’Р°СЃ! Р§С‚РѕР±С‹ СЃРіРµРЅРµСЂРёСЂРѕРІР°С‚СЊ РїР°СЂРѕР»СЊ, РЅР°РїРёС€РёС‚Рµ 'РџР°СЂРѕР»СЊ'"
+	UndefinedCommandError = "РљРѕРјР°РЅРґР° РЅРµ СЂР°СЃРїРѕР·РЅР°РЅР°. Р’РІРµРґРёС‚Рµ РЅРѕРІСѓСЋ РєРѕРјР°РЅРґСѓ."
 )
 
 //---------------------------------------------------------------------//
